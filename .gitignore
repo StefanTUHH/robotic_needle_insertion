@@ -1,0 +1,6 @@
+.vscode
+*.pyc
+external
+cmake-build-debug
+.idea
+*.log
